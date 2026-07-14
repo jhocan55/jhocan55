@@ -2,7 +2,7 @@
 
 ### DevOps & Cloud Engineer — AWS · Kubernetes · Terraform · CI/CD, with an embedded-systems streak (C, electronics)
 
-- ☁️ Currently preparing the **AWS Solutions Architect – Associate (SAA-C03)** certification, designing and deploying a full e-commerce reference architecture on AWS
+- ☁️ **AWS Solutions Architect – Associate (SAA-C03)** certification, designing and deploying a full e-commerce reference architecture on AWS
 - 🚢 Trained in **DevOps engineering** (DataScientest program): Kubernetes, Helm, Jenkins, GitLab CI, ArgoCD/GitOps
 - 🔌 Exploring the bridge between **DevOps and embedded/IoT** — C, microcontrollers, firmware CI pipelines
 - 🌱 Always building: infrastructure as code, automated pipelines, and things that blink
