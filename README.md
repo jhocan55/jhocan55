@@ -41,7 +41,7 @@
 | Project | What it shows | Stack |
 |---|---|---|
 | [C fundamentals](https://github.com/jhocan55/cursoC) | Pointers, memory management, data structures in pure C | C |
-| ESP32 telemetry → AWS IoT *(in progress)* | Firmware with CI pipeline (PlatformIO + GitHub Actions), MQTT to AWS IoT Core — where embedded meets DevOps | C/C++, ESP32, AWS IoT |
+| [ESP32 telemetry → AWS IoT](https://github.com/jhocan55/esp32-aws-iot-telemetry) | Firmware with CI pipeline (PlatformIO + GitHub Actions), MQTT/TLS to AWS IoT Core, Terraform-managed cloud side — where embedded meets DevOps | C/C++, ESP32, AWS IoT, Terraform |
 
 ### 🐍 Python
 
