@@ -27,12 +27,28 @@
 
 ## 🚀 Featured Projects
 
+### ☁️ Cloud & DevOps
+
 | Project | What it shows | Stack |
 |---|---|---|
 | [QuackCart — AWS e-commerce architecture](https://github.com/jhocan55/quackcart) <!-- update link when published --> | End-to-end AWS architecture designed against SAA-C03 domains: multi-AZ VPC, ALB + Auto Scaling, RDS, S3/CloudFront, IaC deployment | AWS, Terraform, GitHub Actions |
 | [Kubernetes microservices lab](https://github.com/jhocan55/k8s-datascientest) | FastAPI microservices on Kubernetes: Deployments, Services, Ingress, Helm charts | Kubernetes, Helm, Python |
 | [WordPress + MariaDB infrastructure](https://github.com/jhocan55/wordpress-mariadb-infra) | Repeatable infrastructure provisioning with Terraform | Terraform, MariaDB |
 | [Terraform base project](https://github.com/jhocan55/terraform_base_project) | Reusable Terraform skeleton: remote state, modules, environments | Terraform, AWS |
+
+### 🔌 C & Embedded Systems
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [C fundamentals](https://github.com/jhocan55/cursoC) | Pointers, memory management, data structures in pure C | C |
+| ESP32 telemetry → AWS IoT *(in progress)* | Firmware with CI pipeline (PlatformIO + GitHub Actions), MQTT to AWS IoT Core — where embedded meets DevOps | C/C++, ESP32, AWS IoT |
+
+### 🐍 Python
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [FastAPI microservice](https://github.com/jhocan55/fast-api) | REST API with tests, containerized | Python, FastAPI, Docker |
+| Python OOP showcase *(in progress)* | Design patterns, SOLID principles, typed OOP design | Python |
 
 ---
 
