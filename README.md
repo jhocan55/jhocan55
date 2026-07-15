@@ -52,6 +52,12 @@
 | [FastAPI microservice](https://github.com/jhocan55/fast-api) | REST API with tests, containerized | Python, FastAPI, Docker |
 | [Python OOP showcase](https://github.com/jhocan55/python-oop-showcase) | Order engine demonstrating Strategy, Observer, Repository, Protocols, and DI — `mypy --strict` + ruff + pytest in CI | Python |
 
+### 🗄️ Databases & Scripting
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [DevOps foundations labs](https://github.com/jhocan55/devops-foundations-labs) | Self-contained labs: PostgreSQL (schema, JOINs, backup automation), MongoDB + PyMongo (CRUD, aggregations), bash + jq | PostgreSQL, MongoDB, Bash, Docker |
+
 ### 🤖 AI & LLM
 
 | Project | What it shows | Stack |
