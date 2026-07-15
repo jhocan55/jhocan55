@@ -31,10 +31,12 @@
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [WordPress on EKS — GitLab CI/CD capstone](https://github.com/jhocan55/wordpress-eks-gitlab-cicd) | **Deployed to AWS** during my DevOps formation: multi-env Terraform (dev/staging/prod), EKS + Karpenter + IRSA, RDS Multi-AZ, self-hosted GitLab runners, Helm chart with Trivy scanning | Terraform, EKS, GitLab CI, Helm |
 | [QuackCart — AWS e-commerce architecture](https://github.com/jhocan55/quackcart) | End-to-end AWS architecture built against SAA-C03 domains: multi-AZ VPC, EKS, RDS, CloudFront, DevSecOps pipeline with SAST/IaC/image scanning | AWS, Terraform, Kubernetes, GitHub Actions |
+| [WordPress on EKS (Terraform + Helm)](https://github.com/jhocan55/wp-eks-hardened) | Modular Terraform (VPC/EKS/RDS) with Bitnami WordPress wired to external RDS | Terraform, EKS, Helm |
+| [Ansible WordPress provisioning](https://github.com/jhocan55/ansible-wordpress) | Bare Ubuntu → LEMP + WordPress: composed playbooks and a reusable role, idempotent | Ansible, Nginx, MySQL |
+| [Prometheus + Grafana stack](https://github.com/jhocan55/prometheus-grafana-stack) | One-command Docker observability with dashboards-as-code and alerting | Prometheus, Grafana, Docker |
 | [Kubernetes microservices lab](https://github.com/jhocan55/k8s-datascientest) | FastAPI microservices on Kubernetes: Deployments, Services, Ingress, Helm charts | Kubernetes, Helm, Python |
-| [WordPress + MariaDB infrastructure](https://github.com/jhocan55/wordpress-mariadb-infra) | Repeatable infrastructure provisioning with Terraform | Terraform, MariaDB |
-| [Terraform base project](https://github.com/jhocan55/terraform_base_project) | Reusable Terraform skeleton: remote state, modules, environments | Terraform, AWS |
 
 ### 🔌 C & Embedded Systems
 
