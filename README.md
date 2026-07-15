@@ -52,6 +52,12 @@
 | [FastAPI microservice](https://github.com/jhocan55/fast-api) | REST API with tests, containerized | Python, FastAPI, Docker |
 | [Python OOP showcase](https://github.com/jhocan55/python-oop-showcase) | Order engine demonstrating Strategy, Observer, Repository, Protocols, and DI — `mypy --strict` + ruff + pytest in CI | Python |
 
+### 🤖 AI & LLM
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [CycleWay — AI-assisted bicycle navigator](https://github.com/jhocan55/cycleway-agentic) | LLM route advisor + safety agent behind a LiteLLM multi-model proxy (local Ollama + GitHub Models), Langfuse tracing, spec-driven development | JavaScript, LiteLLM, Ollama, Docker |
+
 ---
 
 ## 📊 GitHub Stats
