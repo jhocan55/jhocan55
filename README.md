@@ -44,6 +44,7 @@
 |---|---|---|
 | [C fundamentals](https://github.com/jhocan55/cursoC) | Pointers, memory management, data structures in pure C | C |
 | [ESP32 telemetry → AWS IoT](https://github.com/jhocan55/esp32-aws-iot-telemetry) | Firmware with CI pipeline (PlatformIO + GitHub Actions), MQTT/TLS to AWS IoT Core, Terraform-managed cloud side — where embedded meets DevOps | C/C++, ESP32, AWS IoT, Terraform |
+| [Buildroot IoT gateway](https://github.com/jhocan55/buildroot-iot-gateway) | Embedded Linux image built from source: `BR2_EXTERNAL` tree, custom C MQTT telemetry daemon packaged the Buildroot way, pinned kernel with hash checking, automated QEMU boot test in CI — the Linux-side companion to the ESP32 project | C, Buildroot, Linux, QEMU, MQTT |
 
 ### 🐍 Python
 
